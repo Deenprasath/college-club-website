@@ -11,7 +11,6 @@ A modern, fully responsive multi-page website built for a college Tech Club usin
 ## 🔗 Live Demo
 
 👉 **[Click here to view the live project](https://Deenprasath.github.io/college-club-website/)**  
-Make sure your repository is named `techclub` and GitHub Pages is enabled.
 
 ---
 
