@@ -1,36 +1,45 @@
-# 🚀 TechClub - College Club Website
 
-An interactive, fully responsive multi-page website for a college tech club built using HTML, CSS, and JavaScript. This project showcases the club's activities, events, team members, gallery, and contact options.
+# 🚀 TechClub - College Club Website
+### 🧑‍💻 Developed by: **DeenPrasath S**
+
+A modern, fully responsive multi-page website built for a college Tech Club using HTML, CSS, and JavaScript. The website showcases club activities, events, members, gallery, and contact options — with interactive animations and stylish design.
 
 ![Demo Screenshot](college-club-website.png)
 
 ---
 
-## 🔗 Live Demo  
-👉 [View the Website Live](https://Deenprasath.github.io/techclub/)
+## 🔗 Live Demo
+
+👉 **[Click here to view the live project](https://Deenprasath.github.io/techclub/)**  
+Make sure your repository is named `techclub` and GitHub Pages is enabled.
 
 ---
 
 ## 🌟 Features
 
-- 🎉 Hero section with scroll animations and parallax effects
-- 📚 About section with story, mission, and values
-- 📆 Events section with dynamic event cards
-- 👥 Members showcase with profiles and skills
-- 🖼️ Lightbox-enabled image gallery
-- ✉️ Contact form with validation and simulated submission
-- 🎨 Fully responsive design with beautiful gradients and glassmorphism
-- 🔄 Smooth scrolling, animations, scroll-to-top button, and mobile navigation toggle
+- 🎯 Smooth scroll navigation and animated sections
+- 💡 About TechClub: story, mission, vision, values
+- 📆 Events: upcoming hackathons, workshops, tech talks
+- 👥 Members: executive & active team profiles with skills
+- 🖼️ Gallery with lightbox viewer for event photos
+- 📬 Contact form with validation and interactive effects
+- 📱 Fully mobile-responsive design with hamburger menu
+- 🎨 Custom gradients, glassmorphism cards, stylish UI
 
 ---
 
-## 🛠️ Built With
+## 🛠 Tech Stack
 
-- HTML5
-- CSS3 (custom gradients + responsive design)
-- Vanilla JavaScript (interactivity, lightbox, scroll effects)
+- `HTML5` – Markup and layout
+- `CSS3` – Styling, effects, layout, responsiveness
+- `Vanilla JavaScript` – DOM manipulation, interactivity, form handling
 
 ---
 
-## 📂 Project Structure
-
+## 📂 Folder Structure
+echclub/
+├── index.html
+├── styles.css
+├── script.js
+├── college-club-website.png
+└── README.md
